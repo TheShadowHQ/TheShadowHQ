@@ -4,7 +4,7 @@
 
 I am a self-learning full stack web developer. All of my skills are mostly based on **The Odin Project** and Youtube videos. I aspire to become a well-rounded full-stack developer.
 
-Skills: NODE JS / REACT / JS / HTML / CSS
+Skills: Node.js / React / JavaScript / HTML / CSS
 
 - 🔭 I’m currently working on Basic Information Site 
 - 🌱 I’m currently learning NodeJs 
